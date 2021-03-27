@@ -12,3 +12,12 @@ Input1:6
 Input2:9
 Output:False
 """
+
+show:Please input Denominator:
+Input2:90
+Output:True
+
+Input1:6
+Input2:9
+Output:False
+"""
